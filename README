@@ -1,0 +1,13 @@
+// 1.  Hacer un programa que reciba 2 números del usuario y los sume. 
+
+//2. Hacer un programa que reciba un nombre por parte del usuario, si se recibió nombre por parte del usuario, saludarlo con nombre, si no, sólo decir 'Hola' ✅ 
+
+//3. Hacer un programa que pida al usuario un número entero y muestre los valores desde cero hasta el número ingresado.
+
+//4. Hacer un programa que solicite al usuario un texto, si el usuario no ingresa nada seguir solicitando hasta que lo haga. 
+
+//5. Hacer un programa que muestre los días de la semana. 
+
+//6. Hacer un programa que pida al usuario dos números, mostrar la suma y la resta del primer número y el segundo número. 
+
+//7. Hacer una función que reciba un nombre, si existe nombre saludar por nombre de otra manera saludar 'Hola, desconocido' con Manejo de DOM. 
